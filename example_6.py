@@ -36,3 +36,4 @@ for attr in attr_list:
 print("\nСловарь аттрибутов товаров:\n")
 for k,v in product_dict.items():
     print(f"{k} : {v}")
+    
