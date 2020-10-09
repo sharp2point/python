@@ -9,3 +9,4 @@ while True:
     sorted_list.sort()
     sorted_list.reverse()
     print(f"Результат: {str(sorted_list).strip('][')}")
+          
