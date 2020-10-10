@@ -6,7 +6,6 @@ while True:
         break;
     input_numb = int(code)
     sorted_list.append(input_numb)
-    sorted_list.sort()
-    sorted_list.reverse()
+    sorted_list.sort(reverse = True)
     print(f"Результат: {str(sorted_list).strip('][')}")
           
