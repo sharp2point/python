@@ -3,7 +3,6 @@
 
 import os
 import time
-from itertools import cycle
 
 # словарь конфигурации
 config_traf = {
