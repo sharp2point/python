@@ -1,2 +1,0 @@
-# python
-Tutorial Geekbrain
