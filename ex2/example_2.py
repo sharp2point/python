@@ -28,10 +28,16 @@ class Clothes(ABC):
 
     @property
     def amount_fabric(self):
+        """
+        Возвращает количество материала
+        """
         pass
 
     @property
     def c_size(self):
+        """
+        Устанавливает/Возвращает размер одежды
+        """
         pass
 
 
